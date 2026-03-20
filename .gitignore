@@ -1,3 +1,11 @@
+#data
+data/
+data/*
+
+# kaggle
+
+kaggle.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
